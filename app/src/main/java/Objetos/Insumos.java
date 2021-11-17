@@ -5,9 +5,9 @@ import java.util.Objects;
 
 public class Insumos {
     private int id;
-    private String[] insumos ={"Macetero clásico","Semillas de Zanahoria", "Semillas de Perejil Liso", "Tierra de hojas (50 lts)", "Semillas de girasol"};
-    private int[] precios = {1500, 1900, 1700, 3650, 2500};
-    private int[] stock  = {100, 30, 60, 80, 40};
+    private String[] insumos ={"Macetero clásico","Semillas de Zanahoria", "Semillas de Perejil Liso", "Tierra de hojas (50 lts)", "Semillas de girasol", "Pala de jardinería"};
+    private int[] precios = {1500, 1900, 1700, 3650, 2500, 2000};
+    private int[] stock  = {100, 30, 60, 80, 40, 15};
 
     public Insumos(){
     }
